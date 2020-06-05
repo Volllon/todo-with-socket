@@ -38,3 +38,14 @@ Access `http://localhost:5000` on the browser.
    -   Change proxy in `./client/package.json` to you network for example `http://localhost:8080`
    -   In new terminal Type `cd ./client && yarn` to start the web.
    -  Access `http://localhost:3000` on the browser.
+
+
+# App description
+
+App is divided into rooms.
+The user enters the name of the room, his name and joins the room.
+
+# Features
+
+- add/delete/change status todo;
+- todo is signed by name.
